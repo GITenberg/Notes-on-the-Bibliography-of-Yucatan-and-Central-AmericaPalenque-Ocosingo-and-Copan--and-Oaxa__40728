@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7940
     wikipedia: http://en.wikipedia.org/wiki/Adolph_Francis_Alphonse_Bandelier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40728#Notes-on-the-Bibliography-of-Yucatan-and-Central-AmericaPalenque-Ocosingo-and-Copan--and-Oaxa_
 gutenberg_issued: '2012-09-10'
 gutenberg_type: Text
 identifiers:
