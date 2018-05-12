@@ -1,0 +1,36 @@
+_repo: Notes-on-the-Bibliography-of-Yucatan-and-Central-AmericaPalenque-Ocosingo-and-Copan--and-Oaxa__40728
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40728-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bandelier, Adolph Francis Alphonse
+    aliases:
+    - Bandelier, Adolf F.
+    - Bandelier, Adolph F. (Adolph Francis)
+    - Bandelier, A. F. (Adolph Francis)
+    birthdate: 1840
+    deathdate: 1914
+    gutenberg_agent_id: '7940'
+    url: http://www.gutenberg.org/2009/agents/7940
+    wikipedia: http://en.wikipedia.org/wiki/Adolph_Francis_Alphonse_Bandelier
+description: ''
+gutenberg_issued: '2012-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40728'
+  lccn: 03032878
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Central America -- Bibliography'
+- !lcsh 'Mayas -- Antiquities'
+- !lcsh 'Yucatán (Mexico : State) -- Bibliography'
+title: "Notes on the Bibliography of Yucatan and Central America\r\nComprising Yucatan,\
+  \ Chiapas, Guatemala (the Ruins of Palenque, Ocosingo, and Copan), and Oaxaca (Ruins\
+  \ of Mitla)"
+url: http://www.gutenberg.org/ebooks/40728
